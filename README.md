@@ -36,7 +36,7 @@ These projects are created to practice and showcase my skills in **HTML structur
 
 ---
 
-## 🛠️ How to Use
+## 🛠️ How to  Use
 
 1. Clone the repository  
    ```bash
