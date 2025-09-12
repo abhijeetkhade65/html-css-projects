@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(217, 54%, 11%);
+}
+.main{
+    background-color:hsl(216, 50%, 16%);
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    border-radius: 20px;
+    border: 3px solid hsl(218, 56%, 9%) ;
+}
+.eqi{
+    height: 230px;
+    width: 215px;
+    border-radius: 10px;
+
+}
+h2{
+    color: white;
+     font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 15px;
+}
+p{
+    color: hsl(215, 51%, 70%);  
+  font-style: normal;
+  font-size: 14.5px;
+}
+.eth{
+    display: flex;
+    justify-content: space-between;
+}
+.foot{
+    display: flex;
+    gap: 10px;
+}
+.pf{
+    border-radius: 50%;
+    border: solid 1px white;
+    height: 25px;
+    width: 25px;
+}
+.ft1{
+    color: hsl(215, 51%, 70%);
+}
+.ft2{
+color: white;
+}
+.ftc{
+     font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 12px;
+}
+.time{
+    color: hsl(178, 100%, 50%);
+    font-size: 14px;
+}
+.day{
+    color:hsl(215, 51%, 70%) ;
+}
+.dth{
+    display: flex;
+    gap: 5px;
+}
+.td{
+    display: flex;
+    gap: 5px;
+}
+.h{
+    color: hsl(215, 51%, 70%);
+}
