@@ -29,7 +29,7 @@ These projects are created to practice and showcase my skills in **HTML structur
   🔗 [Live Demo](https://travelexplorerproject5.netlify.app/) | 📂 [Source Code](https://github.com/abhijeetkhade65/html-projects/blob/main/TravelExplorerProject5/index.html)
 
 - 📄 **Project 6: Media Project**  
-  An HTML5 project showcasing media features in one site.
+  An HTML5 project  showcasing media features in one site.
   🔗 [Live Demo](https://mediaproject6.netlify.app/) | 📂 [Source Code](https://github.com/abhijeetkhade65/html-projects/blob/main/MediaProject6/index.html)
   
 *( More projects will be added soon       !)*
