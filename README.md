@@ -5,7 +5,7 @@ These projects are created to practice and showcase my skills in **HTML structur
 
 ---
 
-## 📂 Projects
+## 📂   Projects
 
 - 📄 **Project 1: Resume Template**  
   A simple HTML resume template showcasing education, skills       , and projects.
