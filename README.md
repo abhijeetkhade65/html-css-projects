@@ -13,7 +13,7 @@ These projects are created to practice and showcase my skills in **HTML structur
 
 - 📄 **Project 2: Recipee Page**  
   A simple HTML page to learn and cook tasty dishes..
-  🔗 [Live Demo](https://recipeepageproject2.netlify.app/) | 📂 [Source Code](https://github.com/abhijeetkhade65/html-projects/blob/main/RecipeePageProject2/index.html)
+  🔗 [Live Demo](https://recipeepageproject2.netlify.app/) | 📂 [Source Code]()
 
 - 📄 **Project 3: Tribute   Page**  
   Chhatrapati Shivaji Maharaj : Founder of the Maratha Empire.
