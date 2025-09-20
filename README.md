@@ -17,7 +17,7 @@ These projects are created to practice and showcase my skills in **HTML structur
 
 - 📄 **Project 3: Tribute   Page**  
   Chhatrapati Shivaji Maharaj : Founder of the Maratha Empire.
-  🔗 [Live Demo](https://shivajitributepageproject3.netlify.app/#ig) | 📂 [Source Code](https://github.com/abhijeetkhade65/html-css-projects/tree/main/ThreeCardsProject3)
+  🔗 [Live Demo](https://shivajitributepageproject3.netlify.app/#ig) | 📂 [Source Code]()
 
 
 - 📄 **Project 4: College site**  
