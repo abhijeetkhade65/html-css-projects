@@ -3,7 +3,6 @@
 This repository contains my collection of **HTML-only projects**.  
 These projects are created to practice and showcase my skills in **HTML structure, tags, and layouts** without using CSS or JavaScript (unless mentioned).
 
----
 
 ## 📂   Projects
 
