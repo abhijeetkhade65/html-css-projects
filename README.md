@@ -29,7 +29,7 @@ These projects are created to practice and showcase my skills in **HTML structur
 
 - 📄 **Project 6: Media Project**  
   An HTML5 project  showcasing media features in one site.
-  🔗 [Live Demo](https://mediaproject6.netlify.app/) | 📂 [Source Code]()
+  🔗 [Live Demo]() | 📂 [Source Code]()
   
 *( More projects will   be added soon       !)*
 
