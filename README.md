@@ -25,7 +25,7 @@ These projects are created to practice and showcase my skills in **HTML structur
 
 - 📄 **Project 5: Travel Explorer**  
   An travel platform that connects you to destinations, cultures, and unforgettable journeys.
-  🔗 [Live Demo](https://travelexplorerproject5.netlify.app/) | 📂 [Source Code]()
+  🔗 [Live Demo]() | 📂 [Source Code]()
 
 - 📄 **Project 6: Media Project**  
   An HTML5 project  showcasing media features in one site.
